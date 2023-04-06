@@ -13,7 +13,7 @@ As of April 6, 2023
 
 Major Tweak(s):
 1. Changes to the notebook involving Mean Precipitation. New custom cmaps at various rates.
-2. Adjusted gaussian smoothing to most of the NCEP FNL notebooks. 
+2. Adjusted gaussian smoothing to most of the ERA5 Re notebooks. 
 
 Minor Tweak(s):
 1. Subtle changes to plot titles involving symbols instead of proxy abbreviations. 
