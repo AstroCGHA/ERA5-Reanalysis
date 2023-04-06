@@ -17,4 +17,4 @@ Major Tweak(s):
 
 Minor Tweak(s):
 1. Subtle changes to plot titles involving symbols instead of proxy abbreviations. 
-2.  Reversed the color scheme in Atmospheric Thickness to accomodate temperature variation. 
+2.  Reversed the color scheme in Atmospheric Thickness to accomodate temperature variation.
