@@ -2,7 +2,7 @@
 Visualizing ECMWF's ERA5 Reanalysis from both Single and Pressure Levels and on hourly basis, 
 at 0.25 x 0.25 degree. These dataset can be queried via NCAR/UCAR RDA (https://rda.ucar.edu/),
 direct to THREDDS Server (https://thredds.ucar.edu/thredds/catalog/catalog.html) or conviniently through
-CDS (https://cds.climate.copernicus.eu/#!/home)
+CDS (https://cds.climate.copernicus.eu/#!/home).
 
 These notebooks that I created are used for my bachelor's thesis. However, it 
 can be used, accordingly based on your preference i.e. location, time, etc. Thus, you can definitely
