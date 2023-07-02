@@ -8,6 +8,8 @@ These notebooks that I created are used for my bachelor's thesis. However, it
 can be used, accordingly based on your preference i.e. location, time, etc. Thus, you can definitely
 make improvements out of it.
 
+These notebooks include synoptic and mesoscale (e.g. convective and kinematic) parameters.
+
 ---------------
 As of June 30, 2023
 
