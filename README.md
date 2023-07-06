@@ -10,11 +10,18 @@ make improvements out of it.
 
 These notebooks include synoptic and mesoscale (e.g. convective and kinematic) parameters.
 
+Python packages mostly used in these notebooks are Cartopy, Matplotlib, MetPy, NumPy, and Xarray. Make sure you have those!
+
 ---------------
+As of July 6, 2023
+
+Major Tweak(s):
+1. Added a notebook for 0-3 km Streamwise Helicity and 0-500 m Streamwise Vorticity.
+
 As of June 30, 2023
 
 Major Tweak(s):
-1. Added a notebook for 0-3 km Storm-Relative (SR) Motion and both 0-1 & 0-3 km SR Helicity.
+1. Added a notebook for 0-6 km Mean Storm Motion and both 0-1 & 0-3 km Storm-Relative Helicity (SRH).
 
 As of April 6, 2023
 
