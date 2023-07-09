@@ -13,7 +13,7 @@ These notebooks include synoptic and mesoscale (e.g. convective and kinematic) p
 I've used Python ver. 3.9.x and the python packages mostly used in these notebooks are Cartopy, Matplotlib, MetPy (both 1.3 on Desktop and 1.5 on Laptop), NumPy, and Xarray. Make sure you have those!
 
 ---------------
-As of July 6, 2023
+As of July 9, 2023
 
 Major Tweak(s):
 1. Added a notebook for 0-3 km Streamwise Helicity and 0-500 m Streamwise Vorticity.
