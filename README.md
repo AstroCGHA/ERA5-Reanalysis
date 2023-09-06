@@ -13,6 +13,11 @@ These notebooks include synoptic and mesoscale (e.g. convective and kinematic) p
 I've used Python ver. 3.9.x and the python packages mostly used in these notebooks are Cartopy, Matplotlib, MetPy (both 1.3 on Desktop and 1.5 on Laptop), NumPy, and Xarray. Make sure you have those!
 
 ---------------
+As of Sept. 6, 2023
+
+Minor Tweaks(s)
+1. Changes to the wind units into 'kt' in Surf. Wind & SWEAT Index notebook.
+
 As of July 20, 2023
 
 Major Tweak(s):
@@ -24,7 +29,7 @@ Major Tweak(s):
 Minor Tweaks(s)
 1. Proper units and calculation of composite parameters without calling the magnitude function to make arrays dimensionless.
 2. Tweaked the date and time of the Winds & SWEAT Index parameter.
-3. Cleared extraneous some 'comments' in the notebooks.
+3. Cleared some extraneous 'comments' in the notebooks.
 
 As of July 9, 2023
 
