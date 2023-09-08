@@ -4,9 +4,9 @@ This file encapsulates all of the notable changes of each notebook on this repos
 
 Tweaks(s)
 1. Changes to the wind units into 'kt' in Surf. Wind & SWEAT Index notebook.
-2. Added a notebook for Barotropic and Baroclinic Potential Vorticity (PV).
+2. Added a notebook for Barotropic and Baroclinic Potential Vorticity (PV) with Equivalent ThetaE.
 
-Note: Baroclinic PV has pressure level limits to 100-hPa while the other is at 500-hPa for visualization/analysis purposes in this case.
+Note: Baroclinic PV has pressure level limits to 100-hPa, while the other is at 500-hPa for visualization/analysis purposes in this case.
 
 ## As of July 20, 2023
 
