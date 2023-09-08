@@ -14,7 +14,7 @@ I've used Python ver. 3.9.x and the python packages/dependencies mostly used in 
 
   - Cartopy,
   - Matplotlib,
-  - MetPy (both 1.3 on Desktop and 1.5 on Laptop),
+  - MetPy (In my case, I'm using both 1.3 on Desktop and 1.5 on Laptop. Latest is better.),
   - NumPy, and
   - Xarray
 
