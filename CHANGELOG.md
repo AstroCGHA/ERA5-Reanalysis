@@ -1,6 +1,6 @@
 This file encapsulates all of the notable changes of each notebook on this repository.
 
-## As of Sept. 6 & 8, 2023
+## As of Sept. 8, 2023
 
 Tweaks(s)
 1. Changes to the wind units into 'kt' in Surf. Wind & SWEAT Index notebook.
